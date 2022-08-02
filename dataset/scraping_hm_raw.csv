@@ -1,0 +1,996 @@
+product_id,composition,size,fit,material,description,product_name,product_price,color_name,style_id,color_id,scrapy_datetime
+1024256001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Black,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Pale denim blue,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Dark denim gray,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Light denim blue,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,Denim,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449006,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449006,Cotton 100%,,Skinny fit,Denim,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449007,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,White,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449013,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449013,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449021,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark denim blue,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449021,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449022,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449024,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark blue,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+0690449024,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Light denim blue,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,Denim,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449006,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449006,Cotton 100%,,Skinny fit,Denim,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449007,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,White,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449013,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449013,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449021,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark denim blue,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449021,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449022,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449024,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark blue,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+0690449024,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Denim blue,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Black,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Black,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Dark blue,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Black,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317012,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,012,2022-08-01 21:34:37
+1013317012,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,012,2022-08-01 21:34:37
+0875105001,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105002,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Black,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105003,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105009,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Dark denim blue,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105011,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105015,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105016,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Denim blue,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105017,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Dark denim blue,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105018,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Pale denim blue,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105023,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Black,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105024,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105026,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light gray,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105029,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Black,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317001,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Light denim blue,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,001,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Denim blue,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317002,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Denim blue,1013317,002,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Black,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317004,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,20.9,Black,1013317,004,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317005,"Cotton 79%, Polyester 19%, Spandex 2%",,Regular fit,Denim,Dark gray,Hybrid Regular Tapered Joggers,44.9,Dark gray,1013317,005,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Black,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317006,"Cotton 79%, Polyester 20%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Black,1013317,006,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Dark blue,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317008,"Cotton 77%, Polyester 21%, Spandex 2%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,15.9,Dark blue,1013317,008,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Black,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317010,"Cotton 80%, Polyester 19%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,22.9,Black,1013317,010,2022-08-01 21:34:37
+1013317012,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,012,2022-08-01 21:34:37
+1013317012,"Cotton 78%, Polyester 21%, Spandex 1%",,Regular fit,Denim,Solid-color,Hybrid Regular Tapered Joggers,44.9,Light denim blue,1013317,012,2022-08-01 21:34:37
+0979945001,Cotton 100%,,Loose fit,keyFibreType,Light denim blue,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945003,Cotton 100%,,Loose fit,keyFibreType,Black,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945001,Cotton 100%,,Loose fit,keyFibreType,Light denim blue,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945001,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Light denim blue,0979945,001,2022-08-01 21:34:37
+0979945003,Cotton 100%,,Loose fit,keyFibreType,Black,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+0979945003,"Polyester 65%, Cotton 35%",,Loose fit,Denim,Solid-color,Loose Jeans,39.9,Black,0979945,003,2022-08-01 21:34:37
+1024256001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Black,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+0985159001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+1008549001,"Cotton 98%, Spandex 2%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549002,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Denim blue,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549003,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark gray,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549004,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark blue,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549006,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Black,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549007,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light gray,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549008,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light denim blue,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199003,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Denim blue,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199004,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,White,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199005,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light gray,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1024256001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Black,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Pale denim blue,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Dark denim gray,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0985159001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Light denim blue,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,Denim,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449006,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449006,Cotton 100%,,Skinny fit,Denim,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449007,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,White,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449013,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449013,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449021,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark denim blue,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449021,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449022,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449024,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark blue,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+0690449024,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+1024256001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Black,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256001,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Black,1024256,001,2022-08-01 21:34:37
+1024256002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1024256002,"Polyester 65%, Cotton 35%",,Slim fit,Denim,Solid-color,Slim Jeans,24.9,Light denim blue,1024256,002,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light denim blue,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199003,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Denim blue,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199004,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,White,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199005,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light gray,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+0875105001,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105001,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Denim blue,Relaxed Jeans,22.9,Denim blue,0875105,001,2022-08-01 21:34:37
+0875105002,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Black,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105002,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,002,2022-08-01 21:34:37
+0875105003,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105003,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,003,2022-08-01 21:34:37
+0875105009,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Dark denim blue,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105009,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,009,2022-08-01 21:34:37
+0875105011,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105011,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,011,2022-08-01 21:34:37
+0875105015,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105015,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,22.9,Light denim blue,0875105,015,2022-08-01 21:34:37
+0875105016,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Denim blue,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105016,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,0875105,016,2022-08-01 21:34:37
+0875105017,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Dark denim blue,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105017,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Dark denim blue,0875105,017,2022-08-01 21:34:37
+0875105018,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Pale denim blue,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105018,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Pale denim blue,0875105,018,2022-08-01 21:34:37
+0875105023,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Black,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105023,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,023,2022-08-01 21:34:37
+0875105024,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light denim blue,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105024,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,0875105,024,2022-08-01 21:34:37
+0875105026,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Light gray,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105026,Cotton 100%,Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light gray,0875105,026,2022-08-01 21:34:37
+0875105029,Cotton 100%,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,keyFibreType,Black,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+0875105029,"Polyester 65%, Cotton 35%",Waist: Circumference: 90.5 cm (Size 33),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,0875105,029,2022-08-01 21:34:37
+1008549001,"Cotton 98%, Spandex 2%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549002,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Denim blue,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549003,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark gray,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549004,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark blue,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549006,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Black,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549007,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light gray,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549008,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549001,"Cotton 98%, Spandex 2%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549002,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Denim blue,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549003,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark gray,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549004,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark blue,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549006,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Black,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549007,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light gray,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549008,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008110001,"Cotton 90%, Elastomultiester 8%, Spandex 2%",,Slim fit,Denim,Dark denim blue,Freefit® Slim Jeans,49.9,Dark denim blue,1008110,001,2022-08-01 21:34:37
+1008110001,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Dark denim blue,1008110,001,2022-08-01 21:34:37
+1008110001,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Dark denim blue,1008110,001,2022-08-01 21:34:37
+1008110001,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Dark denim blue,1008110,001,2022-08-01 21:34:37
+1008110001,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Dark denim blue,1008110,001,2022-08-01 21:34:37
+1008110001,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Dark denim blue,1008110,001,2022-08-01 21:34:37
+1008110002,"Cotton 90%, Elastomultiester 8%, Spandex 2%",,Slim fit,Denim,Black,Freefit® Slim Jeans,49.9,Black/No fade black,1008110,002,2022-08-01 21:34:37
+1008110002,Cotton 100%,,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Black/No fade black,1008110,002,2022-08-01 21:34:37
+1008110002,Cotton 100%,,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Black/No fade black,1008110,002,2022-08-01 21:34:37
+1008110002,Cotton 100%,,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Black/No fade black,1008110,002,2022-08-01 21:34:37
+1008110002,Cotton 100%,,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Black/No fade black,1008110,002,2022-08-01 21:34:37
+1008110002,Cotton 100%,,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Black/No fade black,1008110,002,2022-08-01 21:34:37
+1008110003,"Cotton 89%, Elastomultiester 9%, Spandex 2%",,Slim fit,Denim,Light denim blue,Freefit® Slim Jeans,49.9,Light denim blue,1008110,003,2022-08-01 21:34:37
+1008110003,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,003,2022-08-01 21:34:37
+1008110003,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,003,2022-08-01 21:34:37
+1008110003,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,003,2022-08-01 21:34:37
+1008110003,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,003,2022-08-01 21:34:37
+1008110003,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,003,2022-08-01 21:34:37
+1008110005,"Cotton 89%, Elastomultiester 9%, Spandex 2%",,Slim fit,Denim,Light denim blue,Freefit® Slim Jeans,49.9,Light denim blue,1008110,005,2022-08-01 21:34:37
+1008110005,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,005,2022-08-01 21:34:37
+1008110005,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,005,2022-08-01 21:34:37
+1008110005,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,005,2022-08-01 21:34:37
+1008110005,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,005,2022-08-01 21:34:37
+1008110005,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Solid-color,Freefit® Slim Jeans,49.9,Light denim blue,1008110,005,2022-08-01 21:34:37
+1008110006,"Cotton 89%, Elastomultiester 9%, Spandex 2%",,Slim fit,Denim,Denim blue,Freefit® Slim Jeans,49.9,Denim blue,1008110,006,2022-08-01 21:34:37
+1008110006,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Denim blue,Freefit® Slim Jeans,49.9,Denim blue,1008110,006,2022-08-01 21:34:37
+1008110006,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Denim blue,Freefit® Slim Jeans,49.9,Denim blue,1008110,006,2022-08-01 21:34:37
+1008110006,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Denim blue,Freefit® Slim Jeans,49.9,Denim blue,1008110,006,2022-08-01 21:34:37
+1008110006,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Denim blue,Freefit® Slim Jeans,49.9,Denim blue,1008110,006,2022-08-01 21:34:37
+1008110006,"Polyester 80%, Cotton 20%",,Slim fit,Denim,Denim blue,Freefit® Slim Jeans,49.9,Denim blue,1008110,006,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Light denim blue,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,13.9,Light denim blue/trashed,0690449,001,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449002,"Cotton 98%, Spandex 2%",,Skinny fit,Denim,Denim blue,Skinny Jeans,14.9,Denim blue,0690449,002,2022-08-01 21:34:37
+0690449006,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449006,Cotton 100%,,Skinny fit,Denim,Black,Skinny Jeans,7.9,Black/washed,0690449,006,2022-08-01 21:34:37
+0690449007,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449007,Cotton 100%,,Skinny fit,Denim,Light blue,Skinny Jeans,14.9,Light denim blue,0690449,007,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449009,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,17.9,Black washed out,0690449,009,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,keyFibreType,White,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449011,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Jeans,17.9,White,0690449,011,2022-08-01 21:34:37
+0690449013,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449013,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,27.9,Black/washed,0690449,013,2022-08-01 21:34:37
+0690449021,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark denim blue,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449021,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,25.9,Dark denim blue/trashed,0690449,021,2022-08-01 21:34:37
+0690449022,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Black,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449022,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,39.9,Black/trashed,0690449,022,2022-08-01 21:34:37
+0690449024,"Cotton 98%, Spandex 2%",,Skinny fit,keyFibreType,Dark blue,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+0690449024,Polyester 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,20.9,Dark blue/Trashed,0690449,024,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Pale denim blue,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061001,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Pale denim blue,0971061,001,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061002,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,002,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Light denim blue,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061004,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Light denim blue,0971061,004,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Dark denim gray,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061005,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Dark denim gray,0971061,005,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+0971061006,"Cotton 99%, Spandex 1%",,Slim fit,Denim,Solid-color,Slim Tapered Cropped Jeans,29.9,Denim blue,0971061,006,2022-08-01 21:34:37
+1008549001,"Cotton 98%, Spandex 2%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Light denim blue,1008549,001,2022-08-01 21:34:37
+1008549002,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Denim blue,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Denim blue,1008549,002,2022-08-01 21:34:37
+1008549003,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark gray,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark gray,1008549,003,2022-08-01 21:34:37
+1008549004,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Dark blue,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549004,"Polyester 63%, Cotton 37%",,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Dark blue,1008549,004,2022-08-01 21:34:37
+1008549006,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Black,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549006,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,24.9,Black,1008549,006,2022-08-01 21:34:37
+1008549007,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light gray,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549007,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Jeans,11.9,Light gray,1008549,007,2022-08-01 21:34:37
+1008549008,"Cotton 99%, Spandex 1%",,Regular fit,keyFibreType,Light denim blue,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+1008549008,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Jeans,10.9,Light denim blue,1008549,008,2022-08-01 21:34:37
+0985159001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light denim blue,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199003,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Denim blue,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199004,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,White,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199005,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light gray,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+0985159001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+0985159001,Cotton 100%,,Skinny fit,Denim,Solid-color,Skinny Jeans,24.9,Black,0985159,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light denim blue,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199001,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light denim blue,1004199,001,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Black,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199002,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Black,1004199,002,2022-08-01 21:34:37
+1004199003,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Denim blue,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199003,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,14.9,Denim blue,1004199,003,2022-08-01 21:34:37
+1004199004,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,White,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199004,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,White,1004199,004,2022-08-01 21:34:37
+1004199005,"Cotton 99%, Spandex 1%",,Skinny fit,Denim,Light gray,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+1004199005,"Polyester 65%, Cotton 35%",,Skinny fit,Denim,Solid-color,Skinny Cropped Jeans,29.9,Light gray,1004199,005,2022-08-01 21:34:37
+0927964001,Cotton 100%,,Regular fit,Denim,Denim blue,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964001,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Denim blue,0927964,001,2022-08-01 21:34:37
+0927964002,Cotton 100%,,Regular fit,Denim,Light denim blue,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964002,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Light denim blue,0927964,002,2022-08-01 21:34:37
+0927964003,Cotton 100%,,Regular fit,Denim,Dark gray,Regular Tapered Crop Jeans,19.9,Dark gray,0927964,003,2022-08-01 21:34:37
+0927964003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Dark gray,0927964,003,2022-08-01 21:34:37
+0927964003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Dark gray,0927964,003,2022-08-01 21:34:37
+0927964003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Dark gray,0927964,003,2022-08-01 21:34:37
+0927964003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Dark gray,0927964,003,2022-08-01 21:34:37
+0927964003,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Dark gray,0927964,003,2022-08-01 21:34:37
+0927964004,Cotton 100%,,Regular fit,Denim,Steel blue,Regular Tapered Crop Jeans,19.9,Steel blue,0927964,004,2022-08-01 21:34:37
+0927964004,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Steel blue,0927964,004,2022-08-01 21:34:37
+0927964004,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Steel blue,0927964,004,2022-08-01 21:34:37
+0927964004,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Steel blue,0927964,004,2022-08-01 21:34:37
+0927964004,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Steel blue,0927964,004,2022-08-01 21:34:37
+0927964004,"Polyester 65%, Cotton 35%",,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Steel blue,0927964,004,2022-08-01 21:34:37
+0927964005,Cotton 100%,,Regular fit,Denim,White,Regular Tapered Crop Jeans,10.9,White,0927964,005,2022-08-01 21:34:37
+0927964005,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,10.9,White,0927964,005,2022-08-01 21:34:37
+0927964005,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,10.9,White,0927964,005,2022-08-01 21:34:37
+0927964005,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,10.9,White,0927964,005,2022-08-01 21:34:37
+0927964005,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,10.9,White,0927964,005,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Black,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+0927964013,Cotton 100%,,Regular fit,Denim,Solid-color,Regular Tapered Crop Jeans,19.9,Black,0927964,013,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,keyFibreType,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707001,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Black,1071707,001,2022-08-01 21:34:37
+1071707002,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,keyFibreType,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707002,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707002,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707002,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707002,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707002,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707002,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Light denim blue,1071707,002,2022-08-01 21:34:37
+1071707008,Cotton 100%,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,keyFibreType,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
+1071707008,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
+1071707008,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
+1071707008,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
+1071707008,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
+1071707008,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
+1071707008,"Polyester 65%, Cotton 35%",Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,Denim,Solid-color,Relaxed Jeans,29.9,Denim blue,1071707,008,2022-08-01 21:34:37
