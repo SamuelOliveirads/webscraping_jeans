@@ -27,6 +27,26 @@ def data_collection(url, headers):
     # Instance Beautiful Soup
     soup = BeautifulSoup(page.text, "html.parser")
 
+    #------------------ Make URL with all products --------------------
+
+    # collect all products available
+    total_item = soup.find_all('h2', class_='load-more-heading')[0].get('data-total')
+
+    # detect total page numbers
+    page_number = np.ceil(int(total_item)/36)
+
+    # create link from total of page numbers
+    url = url + '?page-size=' + str(int(page_number*36))
+
+    #------------------ New Request with all products ----------------
+
+    # make request
+    page = requests.get(url, headers=headers)
+
+    # Instance Beautiful Soup
+    soup = BeautifulSoup(page.text, "html.parser")
+
+
     # ---------------- Product Data -----------------------------
 
     # extract all products
@@ -204,7 +224,7 @@ def data_cleaning(data1):
     dfaux = data1['composition'].str.split(',', expand=True).reset_index(drop=True)
 
     # choose order from columns
-    df_ref = pd.DataFrame(index=np.arange(len(data1)), columns=['cotton', 'spandex', 'polyester'])
+    df_ref = pd.DataFrame(index=np.arange(len(data1)), columns=['cotton', 'polyester', 'elastomultiester', 'spandex'])
 
     #--------------------------  cotton ----------------------------------------------
     # Collect cotton from first collumn
@@ -296,11 +316,14 @@ def data_cleaning(data1):
     # cotton
     data1['cotton'] = data1['cotton'].astype('float64')
 
-    # spandex
-    data1['spandex'] = data1['spandex'].astype('float64')
-
     # polyester
     data1['polyester'] = data1['polyester'].astype('float64')
+
+    # elastomultiester
+    data1['elastomultiester'] = data1['elastomultiester'].astype('float64')
+
+    # spandex
+    data1['spandex'] = data1['spandex'].astype('float64')
 
     # drop composition
     data1.drop(columns='composition', inplace=True)
